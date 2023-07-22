@@ -71,8 +71,6 @@
 
 </ol>
 <br> 
-
-<br> 
 <p> Проект 3: Когортный анализ онлайн-кинотеатра с помощью SQL</p>
 <p>Что нужно было сделать: Смоделировать изменение балансов студентов. Баланс — это количество уроков, которое есть у каждого студента. 
 Чтобы проверить, всё ли в порядке с нашими данными, составить список гипотез и вопросов, нам важно понимать: 
@@ -138,8 +136,8 @@
   
 <p>Как решал: краткое описание решения (автореферат)<p>
 
-><p> <a href="https://metabase.sky.pro/question/73093"> код в Metabase задание 1</a>
-><p> <a href="https://metabase.sky.pro/question/73094"> код в Metabase задание 2</a> 
+><p> <a href="https://github.com/makswer1/makswer1/blob/main/Dashboard%20SQL%201.sql"> код задания 1</a>
+><p> <a href="https://github.com/makswer1/makswer1/blob/main/Dashboard%20SQL%202.sql"> код задания 2</a> 
 ><p> <a href="https://docs.google.com/spreadsheets/d/1D67Yu_Ex7Aeh5PUWi4AsaCqhse79M29F/edit?usp=sharing&ouid=114275162980135230202&rtpof=true&sd=true"> визуализация и ссылка на проект</a>
 
  <p>Выводы (итоги): указаны в приложенной визуализации файла Excel <p>
