@@ -60,6 +60,7 @@
 </ol>
 
 > <a href="https://docs.google.com/spreadsheets/d/1Io8Wizjcac8uxjCs45k-j5oaU3E7XzlZ/edit?usp=sharing&ouid=114275162980135230202&rtpof=true&sd=true">Ссылка на проект</a>
+<p> файл выложен на google docs, в связи с тем, что его объем превышает разрешенные 25МB, разрешенные репозитарием Git. Рекомендую скачать и просматривать локально через Excel</p>
  
  <p>Выводы (итоги):<p>
 <ol>
@@ -139,6 +140,7 @@
 ><p> <a href="https://github.com/makswer1/makswer1/blob/main/Dashboard%20SQL%201.sql"> код задания 1</a>
 ><p> <a href="https://github.com/makswer1/makswer1/blob/main/Dashboard%20SQL%202.sql"> код задания 2</a> 
 ><p> <a href="https://docs.google.com/spreadsheets/d/1D67Yu_Ex7Aeh5PUWi4AsaCqhse79M29F/edit?usp=sharing&ouid=114275162980135230202&rtpof=true&sd=true"> визуализация и ссылка на проект</a>
+<p> файл выложен на google docs, в связи с тем, что его объем превышает разрешенные 25МB, разрешенные репозитарием Git. Рекомендую скачать и просматривать локально через Excel</p>
 
  <p>Выводы (итоги): указаны в приложенной визуализации файла Excel <p>
 <br> 
