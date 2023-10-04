@@ -135,14 +135,10 @@
 <p>Количество кредитов, выданных в рамках указанного типа кредита.
 <p>Количество кредитов, выданных в рамках указанного типа кредита и города.<p>
   
-<p>Как решал: краткое описание решения (автореферат)<p>
+<p>Как решал: краткое описание решения<p>
 
 ><p> <a href="https://github.com/makswer1/makswer1/blob/main/Dashboard%20SQL%201.sql"> код задания 1</a>
 ><p> <a href="https://github.com/makswer1/makswer1/blob/main/Dashboard%20SQL%202.sql"> код задания 2</a> 
-><p> <a href="https://docs.google.com/spreadsheets/d/1D67Yu_Ex7Aeh5PUWi4AsaCqhse79M29F/edit?usp=sharing&ouid=114275162980135230202&rtpof=true&sd=true"> визуализация и ссылка на проект</a>
-<b> файл выложен на google docs, в связи с тем, что его объем превышает 25МB, разрешенные репозитарием Git. Рекомендую скачать и просматривать локально через Excel</b>
- <p>Выводы (итоги): указаны в приложенной визуализации файла Excel <p>
-<br> 
 
 ## Контактная информация
 - Email: makswer@gmail.com
